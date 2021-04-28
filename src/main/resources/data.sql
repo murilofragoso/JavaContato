@@ -1,0 +1,1 @@
+INSERT INTO Contato (nome, email) VALUES ('Murilo', 'Murilo@teste.com')
